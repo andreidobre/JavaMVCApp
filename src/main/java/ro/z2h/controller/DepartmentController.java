@@ -6,7 +6,7 @@ import ro.z2h.annotation.MyRequestMethod;
 /**
  * Created by Dumitru on 11.11.2014.
  */
-@MyController(urlPath = "/departments")
+@MyController(urlPath = "/department")
 public class DepartmentController {
 
     @MyRequestMethod(urlPath = "/all")
